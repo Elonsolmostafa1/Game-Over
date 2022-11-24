@@ -172,7 +172,7 @@ export default function Navbar() {
             {localStorage.getItem("userToken") ? (
               <div className="ms-auto">
                 <button
-                  className="btn btn-outline-primary text-white"
+                  className="btn btn-primary text-white"
                   onClick={logOut}
                 >
                   Logout
@@ -186,7 +186,7 @@ export default function Navbar() {
                   </span>
                 </Link>
                 <Link
-                  className="btn btn-outline-primary text-white text-decoration-none"
+                  className="btn btn-primary text-white text-decoration-none"
                   to={"/register"}
                 >
                   Join Free
