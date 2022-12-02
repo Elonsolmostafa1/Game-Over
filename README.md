@@ -1,5 +1,7 @@
 # Game-Over
 
 
-https://user-images.githubusercontent.com/62807830/204095905-988f1fcf-73b4-48ec-a20b-e171b5154e21.mp4 controls="controls" muted="muted"
+
+
+https://user-images.githubusercontent.com/62807830/205278309-bfd2ce42-336c-482c-836f-7ad0607e432f.mp4
 
